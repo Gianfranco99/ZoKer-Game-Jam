@@ -21,7 +21,7 @@ ZoKer combines the excitement of football management with onchain gaming to driv
 
 
 ### 1. Getting Started 📱 In progress...
-ZoKer currently supports web view, allowing you to preview the game at [https://football-mini-game.vercel.app/]
+ZoKer currently supports web view, allowing you to preview the game at https://football-mini-game.vercel.app/
 
 - Open Telegram
 - Find ZoKer bot
