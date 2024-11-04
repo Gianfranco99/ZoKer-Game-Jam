@@ -1,0 +1,23 @@
+# Ignore specific files
+secret.txt
+config.json
+
+# Ignore file types
+*.log
+*.tmp
+*.temp
+*.env
+
+# Ignore directories
+node_modules/
+dist/
+build/
+.vscode/
+
+# Ignore all files in a directory but keep the directory
+logs/*
+!logs/.gitkeep
+
+# Ignore files with specific patterns
+**/debug.log
+temp_*
