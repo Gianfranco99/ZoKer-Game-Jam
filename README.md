@@ -61,9 +61,5 @@ Our five-person squad combines blockchain innovation with football passion. Carl
 
 This project was built during the Dojo Game Jam. Feel free to open issues and submit PRs!
 
-## License 📄
-
-[Add License Info]
-
 ---
 Built with ⚡ on Starknet | Made for Dojo Game Jam 2024
