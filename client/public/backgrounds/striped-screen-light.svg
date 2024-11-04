@@ -1,0 +1,29 @@
+<svg width="874" height="402" viewBox="0 0 874 402" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_58_1831)">
+<rect width="874" height="491.625" transform="translate(0 -45)" fill="url(#paint0_radial_58_1831)"/>
+<g style="mix-blend-mode:overlay" opacity="0.35" clip-path="url(#clip1_58_1831)">
+<line x1="279.094" y1="-138.266" x2="-211.621" y2="352.449" stroke="white" stroke-width="40.0583"/>
+<line x1="334.63" y1="-73.6273" x2="-156.085" y2="417.087" stroke="white" stroke-width="40.0583"/>
+<line x1="451.163" y1="-65.4329" x2="-39.5518" y2="425.282" stroke="white" stroke-width="40.0583"/>
+<line x1="771.174" y1="-262.538" x2="47.848" y2="460.788" stroke="white" stroke-width="40.0583"/>
+<line x1="863.582" y1="-236.136" x2="140.256" y2="487.19" stroke="white" stroke-width="40.0583"/>
+<line x1="949.616" y1="-203.361" x2="226.29" y2="519.965" stroke="white" stroke-width="40.0583"/>
+<line x1="1031.55" y1="-169.22" x2="308.227" y2="554.106" stroke="white" stroke-width="40.0583"/>
+<line x1="1122.59" y1="-139.177" x2="399.269" y2="584.149" stroke="white" stroke-width="40.0583"/>
+<line x1="1187.23" y1="-82.7308" x2="463.909" y2="640.595" stroke="white" stroke-width="40.0583"/>
+<line x1="1259.61" y1="-32.6585" x2="536.287" y2="690.667" stroke="white" stroke-width="40.0583"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_58_1831" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(437 245.812) rotate(90) scale(375.774 375.774)">
+<stop stop-color="#215B92"/>
+<stop offset="0.985" stop-color="#051321"/>
+</radialGradient>
+<clipPath id="clip0_58_1831">
+<rect width="874" height="491.625" fill="white" transform="translate(0 -45)"/>
+</clipPath>
+<clipPath id="clip1_58_1831">
+<rect width="874" height="491.625" fill="white" transform="translate(0 -45)"/>
+</clipPath>
+</defs>
+</svg>

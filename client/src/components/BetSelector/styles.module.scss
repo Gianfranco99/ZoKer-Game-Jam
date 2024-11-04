@@ -1,0 +1,36 @@
+@import "../../styles/variables.scss";
+
+.betselectorStyled {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: $blue-gradient;
+  border: 3px solid $button-border;
+  border-radius: .5rem;
+
+  overflow: hidden;
+
+  .betOption {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    font-size: 3rem;
+    padding: 1rem 1rem;
+    min-width: 8rem;
+
+    text-align: center;
+    color: #FFFFFF;
+    cursor: pointer;
+
+    &.selected {
+      background: $turquise-gradient;
+    }
+
+    &:not(:first-child) {
+      border-left: 3px solid $button-border;
+    }
+  }
+}

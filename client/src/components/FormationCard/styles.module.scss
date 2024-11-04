@@ -1,0 +1,47 @@
+.formationStyled {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+
+  padding: 1.5rem 4rem;
+  border-radius: 1rem;
+
+  color: #E1EBF7;
+
+  .formationName {
+    font-size: 3rem;
+  }
+
+  .formationVisual {
+    border-radius: 1rem;
+    overflow: hidden;
+  }
+
+  .formationStats {
+
+    .stat {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+
+      font-size: 1.75rem;
+
+      .statName {
+        font-family: "Rajdhani";
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+    }
+  }
+
+  &.selected {
+    background: #D9D9D944;
+    color: #FFD477;
+  }
+
+  &.clickable {
+    cursor: pointer;
+  }
+}

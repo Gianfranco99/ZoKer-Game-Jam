@@ -1,0 +1,23 @@
+.progressbarStyled {
+  height: 1.5rem;
+  width: 6rem;
+
+  border: 2px solid #FFF;
+  border-radius: .25rem;
+
+  overflow: hidden;
+
+  .progress {
+    height: 100%;
+
+    background: #FFF;
+  }
+
+  &.highlighted {
+    border-color: #FFD477;
+
+    .progress {
+      background: #FFD477;
+    }
+  }
+}

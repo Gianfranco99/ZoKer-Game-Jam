@@ -1,0 +1,15 @@
+.shootoutanimationStyled {
+  position: absolute;
+  inset: 0;
+
+  height: 100dvh;
+  width: 100dvw;
+
+  background: linear-gradient(180deg, rgba(41, 42, 52, 1) 0%, rgba(94, 125, 21, 1) 100%);
+  z-index: 900;
+
+  iframe {
+    height: 100%;
+    width: 100%;
+  }
+}

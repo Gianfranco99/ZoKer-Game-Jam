@@ -1,0 +1,45 @@
+.headerStyled {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+
+  position: fixed;
+  top: 0;
+
+  background: #07121F;
+  color: #FFF;
+
+  padding: 2rem 2rem;
+  width: 100%;
+
+  z-index: 1000;
+
+  .headerBack {
+    background: none;
+    border: none;
+
+    cursor: pointer;
+
+    svg {
+      height: 3rem;
+      color: #FFF;
+    }
+
+    &.hidden {
+      visibility: hidden;
+    }
+  }
+
+  .headerTitle {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .headerTimer {
+
+    &.hidden {
+      visibility: hidden;
+    }
+  }
+}
