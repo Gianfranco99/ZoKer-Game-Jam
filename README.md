@@ -50,7 +50,7 @@ ZoKer currently supports a [web view](https://football-mini-game.vercel.app/) to
 ## Links 🔗
 
 - **Configuration:**
-  - World: `0x6171ed98331e849d6084bf2b3e3186a7ddf35574dd68cab4691053ee8ab69d7`
+  - World: `[0x6171ed98331e849d6084bf2b3e3186a7ddf35574dd68cab4691053ee8ab69d7](https://sepolia.starkscan.co/contract/0x06171ed98331e849d6084bf2b3e3186a7ddf35574dd68cab4691053ee8ab69d7)`
   - RPC: [https://api.cartridge.gg/x/starknet/sepolia](https://api.cartridge.gg/x/starknet/sepolia)
 
 - **Endpoints:**
